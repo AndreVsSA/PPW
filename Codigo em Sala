@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p.importante{
+            color:red;
+        }
+        p{
+            color:blue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Integrando Css</h1>
+    <p class="importante"> 
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis delectus consequatur odit suscipit adipisci ipsam sunt cum! Corporis recusandae ex libero explicabo praesentium voluptatum iste exercitationem non, est quod culpa?
+        </p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus vel odio in, eaque enim excepturi nam cumque laudantium provident reprehenderit commodi iusto illum quod? Corrupti fuga veritatis facilis quas sed.</p>
+        <p>Consequatur impedit eveniet deleniti sapiente ducimus, sunt veritatis qui iure asperiores laboriosam excepturi alias quod illo corporis ad, fuga quos doloremque at esse maxime molestias maiores harum! Ipsum, ut deserunt.</p>
+        <p>Debitis explicabo culpa facilis quis. Ipsam quae inventore debitis quas itaque veniam illo numquam, quia hic dolor repellat id minus magni minima, dolores quisquam obcaecati veritatis impedit laudantium voluptas vero!</p>
+        <p>Quod deleniti vero perspiciatis iste eum commodi natus obcaecati similique veritatis veniam ut ullam quasi tempora id doloremque rem architecto eius cupiditate soluta, magnam non. Nihil est ipsa ad deserunt!</p>
+</body>
+</html>
