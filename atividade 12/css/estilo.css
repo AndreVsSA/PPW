@@ -1,0 +1,18 @@
+body{
+    
+}
+.form-flex{
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+}
+.form-flex form{
+    
+    background-color: #deb887;
+    padding: 20px;
+    display: inline-block;
+    border: 2px solid black;
+    box-shadow: 0px 2px 20px -5px black;
+    border-radius: 20px;
+}
